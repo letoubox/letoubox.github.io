@@ -1,0 +1,54 @@
+/* line 1, /Users/liushihao/programming/letou/source/stylesheets/all.sass */
+#header {
+  margin-bottom: 0; }
+
+/* line 3, /Users/liushihao/programming/letou/source/stylesheets/all.sass */
+#banner-wrapper {
+  width: 100%; }
+
+/* line 5, /Users/liushihao/programming/letou/source/stylesheets/all.sass */
+#banner {
+  background-image: url("/images/banner-bg2.jpg");
+  height: 400px;
+  width: 1260px;
+  margin: 0 auto; }
+
+/* line 10, /Users/liushihao/programming/letou/source/stylesheets/all.sass */
+.section-wrapper {
+  width: 100%;
+  padding-top: 30px; }
+
+/* line 13, /Users/liushihao/programming/letou/source/stylesheets/all.sass */
+.section {
+  width: 1190px;
+  height: 500px;
+  margin: 0 auto; }
+  /* line 17, /Users/liushihao/programming/letou/source/stylesheets/all.sass */
+  .section .sidebar {
+    margin-right: 30px; }
+
+/* line 20, /Users/liushihao/programming/letou/source/stylesheets/all.sass */
+#footer {
+  color: #eee; }
+  /* line 22, /Users/liushihao/programming/letou/source/stylesheets/all.sass */
+  #footer #footer-contont {
+    margin-top: 30px;
+    height: 300px;
+    background-color: #272727;
+    padding-top: 30px;
+    padding-bottom: 30px; }
+    /* line 28, /Users/liushihao/programming/letou/source/stylesheets/all.sass */
+    #footer #footer-contont ul {
+      font-size: 16px;
+      padding-left: 0;
+      list-style-type: none; }
+      /* line 32, /Users/liushihao/programming/letou/source/stylesheets/all.sass */
+      #footer #footer-contont ul li {
+        padding-bottom: 5px; }
+  /* line 35, /Users/liushihao/programming/letou/source/stylesheets/all.sass */
+  #footer #copyright {
+    height: 44px;
+    background-color: #222; }
+    /* line 38, /Users/liushihao/programming/letou/source/stylesheets/all.sass */
+    #footer #copyright p {
+      margin-top: 14px; }
